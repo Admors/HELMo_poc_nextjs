@@ -1,4 +1,4 @@
-# ImmoVision — Proof of Concept
+# ImmoVision - Proof of Concept
 
 ## Description
 
